@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Paul Quita</h1>
 <h3 align="center">A Full Stack Developer from Philippines</h3>
 
-- 🔭 I’m currently working on as **Full Stack Developer**
+- 🔭 I’m currently working as **Full Stack Developer**
 
 - 🌱 I’m currently learning **React, Flutter, Python**
 
